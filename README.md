@@ -8,5 +8,6 @@
 * [Elucidating the therapeutic mechanism of betanin in Alzheimer’s Disease treatment through network pharmacology and bioinformatics analysis](https://link.springer.com/article/10.1007/s11011-024-01385-w)
 
 
-## Books
+## Books and Chapters
 * [Network Pharmacology](link.springer.com/book/10.1007/978-981-16-0753-0)
+* [Role of Network Pharmacology in Prediction of Mechanism of Neuroprotective Compounds](https://link.springer.com/protocol/10.1007/978-1-0716-3662-6_13)
