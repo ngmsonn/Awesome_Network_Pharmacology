@@ -13,3 +13,11 @@
 ## Books and Chapters
 * [Network Pharmacology](link.springer.com/book/10.1007/978-981-16-0753-0)
 * [Role of Network Pharmacology in Prediction of Mechanism of Neuroprotective Compounds](https://link.springer.com/protocol/10.1007/978-1-0716-3662-6_13)
+
+## Videos
+* [Network Medicine, Systems Pharmacology, and Cardiovascular Drug Discovery](https://www.youtube.com/watch?v=BUcVL2HFJUw)
+* ["Network Medicine: The Healthcare System as a Complex System" by Peter Klimek](https://www.youtube.com/watch?v=B3OhgFPqeCI)
+* [Joseph LOSCALZO : Network Medicine : Novel Approaches to Disease and Therapeutics](https://www.youtube.com/watch?v=3vtaKtNzJHs)
+* [Petra Vertes - Cambridge Neuroscience - Network science and network medicine](https://www.youtube.com/watch?v=7qIZlXHQ1uA)
+* [A Network Pharmacology-Based Approach to Explore Potential Target Proteins for Type 2 DM](https://www.youtube.com/watch?v=IlZ9FD-UnJU)
+  
