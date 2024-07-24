@@ -9,6 +9,7 @@
 * [Elucidating the therapeutic mechanism of betanin in Alzheimer’s Disease treatment through network pharmacology and bioinformatics analysis](https://link.springer.com/article/10.1007/s11011-024-01385-w)
 * [Untargeted metabolomics-based network pharmacology reveals fermented brown rice towards anti-obesity efficacy](https://www.nature.com/articles/s41538-024-00258-x)
 * [Network medicine: an approach to complex kidney disease phenotypes](https://www.nature.com/articles/s41581-023-00705-0)
+* [Molecular networks in Network Medicine: Development and applications](https://wires.onlinelibrary.wiley.com/doi/10.1002/wsbm.1489)
 
 
 ## Books and Chapters
