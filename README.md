@@ -23,3 +23,6 @@
 * [Petra Vertes - Cambridge Neuroscience - Network science and network medicine](https://www.youtube.com/watch?v=7qIZlXHQ1uA)
 * [A Network Pharmacology-Based Approach to Explore Potential Target Proteins for Type 2 DM](https://www.youtube.com/watch?v=IlZ9FD-UnJU)
 * [What is Network Poly-Pharmacology in Multitarget Drug Discovery](https://www.youtube.com/watch?v=C8HS9YKv9uQ)
+
+## Others
+* [Network Medicine Institute and Global Alliance](https://www.network-medicine.org/network-medicine-publications)
