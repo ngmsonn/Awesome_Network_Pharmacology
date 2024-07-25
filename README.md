@@ -10,6 +10,7 @@
 * [Untargeted metabolomics-based network pharmacology reveals fermented brown rice towards anti-obesity efficacy](https://www.nature.com/articles/s41538-024-00258-x)
 * [Network medicine: an approach to complex kidney disease phenotypes](https://www.nature.com/articles/s41581-023-00705-0)
 * [Molecular networks in Network Medicine: Development and applications](https://wires.onlinelibrary.wiley.com/doi/10.1002/wsbm.1489)
+* [Network-based pharmacology-based research on the effect and mechanism of the Hedyotis diffusa–Scutellaria Barbata pair in the treatment of hepatocellular carcinoma](https://www.nature.com/articles/s41598-023-50696-y)
 
 
 ## Books and Chapters
