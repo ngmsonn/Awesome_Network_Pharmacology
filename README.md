@@ -12,7 +12,7 @@ A curated list of awesome lists on Network Pharmacology
 * [Network medicine: an approach to complex kidney disease phenotypes](https://www.nature.com/articles/s41581-023-00705-0)
 * [Molecular networks in Network Medicine: Development and applications](https://wires.onlinelibrary.wiley.com/doi/10.1002/wsbm.1489)
 * [Network-based pharmacology-based research on the effect and mechanism of the Hedyotis diffusa–Scutellaria Barbata pair in the treatment of hepatocellular carcinoma](https://www.nature.com/articles/s41598-023-50696-y)
-* [Network-Based Methods and Their Applications in Drug Discovery]()
+* [Network-Based Methods and Their Applications in Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01613)
 
 
 ## Books and Chapters
