@@ -15,7 +15,7 @@ A curated list of awesome lists on Network Pharmacology
 * [Network-Based Methods and Their Applications in Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01613)
 
 ## Paper II
-
+* [A Screening of Neuraminidase Inhibition Activities of Isoquinolone Alkaloids in Coptis chinensis Using Molecular Docking and Pharmacophore Analysis](https://pubs.acs.org/doi/10.1021/acsomega.0c04847)
 
 ## Books and Chapters
 * [Network Pharmacology](link.springer.com/book/10.1007/978-981-16-0753-0)
