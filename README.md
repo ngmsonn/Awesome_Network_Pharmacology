@@ -15,7 +15,7 @@ A curated list of awesome lists on Network Pharmacology
 * [Network-Based Methods and Their Applications in Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01613)
 
 ## Paper II
-
+* [A bioinformatics investigation into molecular mechanism of Yinzhihuang granules for treating hepatitis B by network pharmacology and molecular docking verification](https://www.nature.com/articles/s41598-020-68224-7?fromPaywallRec=false)
 
 ## Books and Chapters
 * [Network Pharmacology](link.springer.com/book/10.1007/978-981-16-0753-0)
