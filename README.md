@@ -16,7 +16,7 @@ A curated list of awesome lists on Network Pharmacology
 
 ## Paper II
 * [A bioinformatics investigation into molecular mechanism of Yinzhihuang granules for treating hepatitis B by network pharmacology and molecular docking verification](https://www.nature.com/articles/s41598-020-68224-7?fromPaywallRec=false)
-* []()
+* [Mechanisms underlying the therapeutic effects of Gang Huo Qing wen granules in the treatment of influenza based on network pharmacology, molecular docking and molecular dynamics](https://www.nature.com/articles/s41598-024-62469-2)
 
 ## Books and Chapters
 * [Network Pharmacology](link.springer.com/book/10.1007/978-981-16-0753-0)
