@@ -37,6 +37,7 @@ A curated list of awesome lists on Network Pharmacology
 * [What is Network Poly-Pharmacology in Multitarget Drug Discovery](https://www.youtube.com/watch?v=C8HS9YKv9uQ)
 * [网络药理学实操详细步骤讲解](https://www.bilibili.com/video/BV1kv4y1p7Q2/)
 * [Network Biology: Introduction to STRING and Cytoscape](https://www.youtube.com/watch?v=lH75WJgLeoo)
+* [STRING Playlist](https://www.youtube.com/playlist?list=PLjnQS7gxY4Ar6VukbDHp0q0atJAFDWkRX)
 
 ## Others
 * [Network Medicine Institute and Global Alliance](https://www.network-medicine.org/network-medicine-publications)
