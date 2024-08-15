@@ -32,7 +32,4 @@ A curated list of awesome lists on Network Pharmacology
 
 ## Others
 * [Network Medicine Institute and Global Alliance](https://www.network-medicine.org/network-medicine-publications)
-https://helda.helsinki.fi/server/api/core/bitstreams/d3bd3034-087e-4d52-a7f3-58272a6c2ea6/content
-https://researchdirect.westernsydney.edu.au/islandora/object/uws:71386/datastream/PDF/view
-https://dr.ntu.edu.sg/bitstream/10356/178629/2/Thesis_finalVersion.pdf
-http://www.iaees.org/publications/journals/np/articles/2016-1(1)/network-pharmacology-a-further-description.pdf
+
