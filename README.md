@@ -22,6 +22,7 @@ A curated list of awesome lists on Network Pharmacology
 ## Thesis
 * [Network Pharmacology Approaches for Understanding Traditional Chinese Medicine | Yinyin Wang](https://helda.helsinki.fi/server/api/core/bitstreams/d3bd3034-087e-4d52-a7f3-58272a6c2ea6/content)
 * [Development and application of a novel network pharmacology and reverse docking method for natural product discovery: a case study with Gastrodia elata |Tian Ma](https://dr.ntu.edu.sg/bitstream/10356/178629/2/Thesis_finalVersion.pdf)
+* [Development of Novel Herbal Compound Combinations Targeting Neuroinflammation: Network Pharmacology, Molecular Docking and Experimental Verification | Yang Liu](https://researchdirect.westernsydney.edu.au/islandora/object/uws:71386/datastream/PDF/view)
 
 ## Books and Chapters
 * [Network Pharmacology](link.springer.com/book/10.1007/978-981-16-0753-0)
