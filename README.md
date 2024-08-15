@@ -9,8 +9,8 @@ A curated list of awesome lists on Network Pharmacology
 * [Network pharmacology: a bright guiding light on the way to explore the personalized precise medication of traditional Chinese medicine](https://link.springer.com/article/10.1186/s13020-023-00853-2?fromPaywallRec=true)
 * [Network medicine: an approach to complex kidney disease phenotypes](https://www.nature.com/articles/s41581-023-00705-0)
 * [Molecular networks in Network Medicine: Development and applications](https://wires.onlinelibrary.wiley.com/doi/10.1002/wsbm.1489)
-
 * [Network-Based Methods and Their Applications in Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01613)
+* [Molecular networks for the study of TCM Pharmacology](https://academic.oup.com/bib/article/11/4/417/229980)
 
 ## Paper II
 * [A bioinformatics investigation into molecular mechanism of Yinzhihuang granules for treating hepatitis B by network pharmacology and molecular docking verification](https://www.nature.com/articles/s41598-020-68224-7?fromPaywallRec=false)
