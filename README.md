@@ -20,8 +20,9 @@ A curated list of awesome lists on Network Pharmacology
 * [Elucidating the therapeutic mechanism of betanin in Alzheimer’s Disease treatment through network pharmacology and bioinformatics analysis](https://link.springer.com/article/10.1007/s11011-024-01385-w)
 * [Untargeted metabolomics-based network pharmacology reveals fermented brown rice towards anti-obesity efficacy](https://www.nature.com/articles/s41538-024-00258-x)
 * [Network-based pharmacology-based research on the effect and mechanism of the Hedyotis diffusa–Scutellaria Barbata pair in the treatment of hepatocellular carcinoma](https://www.nature.com/articles/s41598-023-50696-y)
-*
-* ## Thesis
+* [Drug target identification using network analysis: Taking active components in Sini decoction as an example](https://www.nature.com/articles/srep24245)
+
+## Thesis
 * [Network Pharmacology Approaches for Understanding Traditional Chinese Medicine | Yinyin Wang](https://helda.helsinki.fi/server/api/core/bitstreams/d3bd3034-087e-4d52-a7f3-58272a6c2ea6/content)
 * [Development and application of a novel network pharmacology and reverse docking method for natural product discovery: a case study with Gastrodia elata |Tian Ma](https://dr.ntu.edu.sg/bitstream/10356/178629/2/Thesis_finalVersion.pdf)
 * [Development of Novel Herbal Compound Combinations Targeting Neuroinflammation: Network Pharmacology, Molecular Docking and Experimental Verification | Yang Liu](https://researchdirect.westernsydney.edu.au/islandora/object/uws:71386/datastream/PDF/view)
