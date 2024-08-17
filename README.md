@@ -22,6 +22,7 @@ A curated list of awesome lists on Network Pharmacology
 * [Network-based pharmacology-based research on the effect and mechanism of the Hedyotis diffusa–Scutellaria Barbata pair in the treatment of hepatocellular carcinoma](https://www.nature.com/articles/s41598-023-50696-y)
 * [Drug target identification using network analysis: Taking active components in Sini decoction as an example](https://www.nature.com/articles/srep24245)
 * [READ Identifying Tinnitus-Related Genes Based on a Side-Effect Network Analysis](https://www.researchgate.net/publication/259984931_Identifying_Tinnitus-Related_Genes_Based_on_a_Side-Effect_Network_Analysis)
+* [READ Network-Based Methods for Prediction of Drug-Target Interactions](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2018.01134/full)
 ## Thesis
 * [Network Pharmacology Approaches for Understanding Traditional Chinese Medicine | Yinyin Wang](https://helda.helsinki.fi/server/api/core/bitstreams/d3bd3034-087e-4d52-a7f3-58272a6c2ea6/content)
 * [Development and application of a novel network pharmacology and reverse docking method for natural product discovery: a case study with Gastrodia elata |Tian Ma](https://dr.ntu.edu.sg/bitstream/10356/178629/2/Thesis_finalVersion.pdf)
