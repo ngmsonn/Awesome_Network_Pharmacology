@@ -26,6 +26,7 @@ A curated list of awesome lists on Network Pharmacology
 * [READ Identifying Tinnitus-Related Genes Based on a Side-Effect Network Analysis](https://www.researchgate.net/publication/259984931_Identifying_Tinnitus-Related_Genes_Based_on_a_Side-Effect_Network_Analysis)
 * [READ Network-Based Methods for Prediction of Drug-Target Interactions](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2018.01134/full)
 * [Molecular biomarkers, network biomarkers, and dynamic network biomarkers for diagnosis and prediction of rare diseases](https://www.sciencedirect.com/science/article/pii/S2667325822003065)
+* [Analyzing of Molecular Networks for Human Diseases and Drug Discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6174636/)
 ## Thesis
 * [Network Pharmacology Approaches for Understanding Traditional Chinese Medicine | Yinyin Wang](https://helda.helsinki.fi/server/api/core/bitstreams/d3bd3034-087e-4d52-a7f3-58272a6c2ea6/content)
 * [Development and application of a novel network pharmacology and reverse docking method for natural product discovery: a case study with Gastrodia elata |Tian Ma](https://dr.ntu.edu.sg/bitstream/10356/178629/2/Thesis_finalVersion.pdf)
