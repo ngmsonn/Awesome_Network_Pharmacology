@@ -48,4 +48,4 @@ A curated list of awesome lists on Network Pharmacology
 ## Others
 * [Network Medicine Institute and Global Alliance](https://www.network-medicine.org/network-medicine-publications)
 * [Youtube: How to write and interpret gene ontology (GO) in research articles ?](https://www.youtube.com/watch?v=kRt2IWfhCqU)
-
+* [Github: NetworkPharmacology-ParemRematik](https://github.com/andrewjonathanbs/NetworkPharmacology-ParemRematik)
