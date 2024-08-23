@@ -35,6 +35,7 @@ A curated list of awesome lists on Network Pharmacology
 ## Books and Chapters
 * [Network Pharmacology](link.springer.com/book/10.1007/978-981-16-0753-0)
 * [Role of Network Pharmacology in Prediction of Mechanism of Neuroprotective Compounds](https://link.springer.com/protocol/10.1007/978-1-0716-3662-6_13)
+* [Network Based Deciphering of the Mechanism of TCM](https://link.springer.com/chapter/10.1007/978-3-319-03801-8_4?fromPaywallRec=true)
 
 ## Videos
 * [Network Medicine, Systems Pharmacology, and Cardiovascular Drug Discovery](https://www.youtube.com/watch?v=BUcVL2HFJUw)
